@@ -2,13 +2,13 @@
 
 This repository contains the code for Punctuated Tensor Decomposed Pair Clustering Method (PunTed-PCM).
 
-## Data Preparation
+**Data Preparation**
 
-## Composite Matrix 
+**Composite Matrix**
 
-## Covariance Network 
+**Covariance Network**
 
-## Hilbert Frequency 
+**Hilbert Frequency** 
 
-## Coevolutionary landscape
+**Coevolutionary landscape**
 
