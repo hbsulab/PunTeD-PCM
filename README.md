@@ -4,6 +4,7 @@ This repository provides an implementation of the Punctuated Tensor Decomposed P
 
 >requirements:
 >numpy>=1.26.0
+
 >pandas>=2.2.0
 >matplotlib>=3.10.0
 >seaborn>=0.13.2
