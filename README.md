@@ -4,7 +4,6 @@ This repository provides an implementation of the Punctuated Tensor Decomposed P
 
 >requirements:
 >numpy>=1.26.0
-
 >pandas>=2.2.0
 >matplotlib>=3.10.0
 >seaborn>=0.13.2
@@ -19,30 +18,31 @@ Prepare your mutation data in the format: D614G;N501Y (multiple mutations separa
 
 **Generate Composite Matrix**
 
-'python Composite_matrix_TSVGISAID_HPC3.py'
+>python Composite_matrix_TSVGISAID_HPC3.py
 
 **Compute Covariance Networks**
 
 Monthly-dependent covariance:
 
-'python cov_compu.py'
+>python cov_compu.py
 
 Covariance time series:
 
-'python cov_time_series.py'
+>python cov_time_series.py
 
 **Calculate Hilbert Frequencies (MATLAB)**
 
 Run the following MATLAB scripts:
 
-'hilbert_compu.m'
+>hilbert_compu.m
 
-'save_fre.m'
+
+>save_fre.m
 
 **Construct Coevolutionary Landscape**
 
-'python seqeunce_space.py'
+>python seqeunce_space.py
 
 **Skewness Calculation**
 
-'python skew_sap_cal.py'
+>python skew_sap_cal.py
